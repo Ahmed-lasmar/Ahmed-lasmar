@@ -17,10 +17,10 @@
 
 <h2>GitHub Analytics</h2>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ahmed-lasmar&show_icons=true&theme=dark#gh-dark-mode-only)]
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ahmed-lasmar&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-lasmar&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-lasmar&layout=compact&theme=dark#gh-dark-mode-only)
 
 <h2>Contact</h2>
 
