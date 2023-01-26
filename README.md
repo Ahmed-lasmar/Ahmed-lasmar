@@ -24,6 +24,6 @@
 
 <ul>
   <li>Email: ahmed.lasmar@esprit.tn</li>
-  <li>WebSite: <a href="[ahmed-lasmar.github.io](https://ahmed-lasmar.github.io)">Ahmed Link</a></li>
+  <li>WebSite: <a href="https://ahmed-lasmar.github.io">Ahmed Link</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/ahmed-lasmar/">Ahmed Lasmar</a></li>
 </ul>
